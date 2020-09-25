@@ -1,0 +1,86 @@
+name: War
+version: 1.0.0
+author: Tyler77
+description: Battle Royale
+main: me.warcenter.warcenter.Main
+commands:
+  hello:
+    description: Tells player hello back!
+    usage: /<command>
+    aliases: hi
+  war:
+    description: Gives info on all other commands like this!
+    usage: /<command>
+    aliases: War
+  GameStart:
+    description: Starts game!
+    usage: /<command>
+    aliases: gamestart
+  WarSetMainLobby:
+    description: Sets the main lobby spawn point!
+    usage: /<command>
+    aliases: warsetmainlobby
+  warreload:
+    description: Reloads the config!
+    usage: /<command>
+    aliases: WarReload
+  warjoin:
+    description: Teleports player to War Main Lobby
+    usage: /<command>
+    aliases: WarJoin
+  WarSetLobby:
+    description: Sets the lobby spawn point
+    usage: /<command>
+    aliases: warsetlobby
+  WarSetPath:
+    description: Sets dragon path
+    usage: /<command>
+    aliases: warsetpath
+  spawn:
+    description: Teleports player back to spawn
+    usage: /<command>
+    aliases: Spawn
+  WarSetChest1:
+    description: Sets chest location
+    usage: /<command>
+    aliases: warsetchest1
+  WarSpawnChest:
+    description: Spawns chest
+    usage: /<command>
+    aliases: warspawnchest
+  WarSetDragonPos1:
+    description: Sets dragons first position
+    usage: /<command>
+    aliases: warsetdragonpos1
+  WarSetDragonPos2:
+    description: Sets dragon second position
+    usage: /<command>
+    aliases: warsetdragonpos2
+  AddPlayerToSpawn:
+    description: Sets dragon spawn
+    usage: /<command>
+    aliases: addplayertospawn
+  CheckMainLobby:
+    description: Diplays the players in the Main Lobby array
+    usage: /<command>
+    aliases: checkmainlobby
+  CheckLobby:
+    description: Diplays the players in the Main Lobby array
+    usage: /<command>
+    aliases: checklobby
+  CheckInGame:
+    description: Diplays the players in the Main Lobby array
+    usage: /<command>
+    aliases: checkmainlobby
+  CheckAlive:
+    description: Diplays the players in the Main Lobby array
+    usage: /<command>
+    aliases: checkmainlobby
+  CheckDead:
+    description: Diplays the players in the Main Lobby array
+    usage: /<command>
+    aliases: checkmainlobby
+  CheckSpectating:
+    description: Diplays the players in the Main Lobby array
+    usage: /<command>
+    aliases: checkmainlobby

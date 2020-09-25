@@ -1,0 +1,13 @@
+MainLobby:
+  set = false
+
+Items:
+  - Diamond
+  - Stone
+  - gravel
+  - gold_ingot
+  - iron_ingot
+
+Weapons:
+  - Carbine
+  - Deagle
